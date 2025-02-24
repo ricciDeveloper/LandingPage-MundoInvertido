@@ -11,4 +11,4 @@
 <iframe conteúdo></iframe> tag para inputar o player do youtube para seu site, gerando um vídeo rodando na sua página. Ou alocar outras páginas em uma janela no seu site
 
 
-aula: estilizando demais seções da página
+aula: finalizando estilização da página min 5:01, continuar
